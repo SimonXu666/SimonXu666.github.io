@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "徐希蒙Xu ximeng"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "大家好这里是徐希蒙的个人主页"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "徐希蒙Xu ximeng"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Tianjin College"
   location         : "Tianjin, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  email            : "xuximeng_tju@126.com"
+  researchgate     : "https://www.researchgate.net/profile/Ximeng-Xu-xuximeng"
   uri              :
   bitbucket        :
   codepen          :
